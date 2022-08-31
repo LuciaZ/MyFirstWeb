@@ -105,7 +105,7 @@ nav.active ul {
 nav ul li {
   font-size: 20px;
   font-weight: 400;
-  margin-left: 225px;
+  margin-left: auto;
   margin-right: 20px;
   transform: rotateY(0deg);
   opacity: 0;
