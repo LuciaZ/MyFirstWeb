@@ -24,4 +24,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # MyFirstWeb
-# MyFirstWeb
+## Just for fun.
