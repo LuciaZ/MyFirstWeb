@@ -35,7 +35,7 @@ export default defineComponent({
   setup() {
     let router = useRouter();
     let enter = () => {
-      router.push("/");
+      router.push("/home");
     };
     return {
       enter,
