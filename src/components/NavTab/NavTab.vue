@@ -25,7 +25,7 @@ export default defineComponent({
   setup() {
     let router = useRouter();
     let home = () => {
-      router.push('/')
+      router.push('/home')
     }
     let works = () => {
       router.push("/works");
