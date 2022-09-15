@@ -45,6 +45,7 @@ export default defineComponent({
     height: 100vh;
 }
 .bottom {
+  display: flex;
   position:absolute;
   top: 90vh;
   width: 100vw;

@@ -27,7 +27,7 @@
       setup () {
         const router = useRouter()
         let loadPage = () => {
-          router.push('/load')
+          router.push('/')
         }
     
         return {

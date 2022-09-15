@@ -16,6 +16,9 @@
       <div class="panel" id="img5">
         <h3>Mostima</h3>
       </div>
+      <div class="panel" id="img6">
+        <h3>Lapland</h3>
+      </div>
   </div>
 
     <!-- <span class="title">Arknights</span> -->
@@ -85,6 +88,10 @@ export default defineComponent({
 
 #img5 {
   background-image: url("../../assets/arknights/mostima.jpg");
+}
+
+#img6 {
+  background-image: url("../../assets/arknights/Lapland2.jpg");
 }
 
 
